@@ -1,17 +1,17 @@
 
-  # Redesign Pomodoro Timer UI
+ # 🍅 Pomodomato
+
+  A garden-themed Pomodoro timer that turns your focus time into a visual experience. Plant seeds of productivity and watch your tomato garden grow with every completed session.
   
-  A modern, beautifully redesigned Pomodoro Timer UI built with React, Vite, and premium UI components. This project provides an enhanced productivity experience with a sleek, contemporary interface.
+  ## 🌟 Current Features
+  - **Garden-Themed UI**: A unique interface featuring a digital "Tomato Garden" where tomatoes are rendered based on your progress.
+  - **Dynamic Garden Rendering**: Custom logic mapping tomato positions to create a visual representation of your focus work.
+  - **Premium Components**: Built using a professional suite of UI components, including Radix UI and shadcn/ui.
+  - **Responsive Design**: Styled with Tailwind CSS for a seamless experience across different screen sizes.
+
+  ## 🚀 Getting Started
   
-  ## Features
-  
-  - Modern, responsive Pomodoro Timer interface
-  - Premium UI components built with Radix UI and shadcn/ui
-  - Dark mode support with next-themes
-  - Smooth animations using Framer Motion
-  - Built with React 18 and Vite for optimal performance
-  
-  ## Prerequisites
+  ### Prerequisites
   
   Before running this project, ensure you have the following installed:
   
@@ -30,51 +30,33 @@
   
   1. **Clone the repository**
      ```bash
-     git clone <your-repository-url>
-     cd Pomodomato
+     git clone [https://github.com/your-username/pomodomato.git](https://github.com/your-username/pomodomato.git)
      ```
   
-  2. **Install dependencies**
+  2. **Navigate to the project folder**
+     ```bash
+     cd Pomodomato
+     ```
+  3. **Install dependencies**
      ```bash
      npm install
      ```
-  
      This will install all required packages including:
      - React and React DOM
      - Vite (build tool)
      - Radix UI components
      - Tailwind CSS
      - And other dependencies listed in package.json
-  
-  ## Running the Project
-  
-  ### Development Mode
-  
-  Start the development server with hot module replacement:
-  
-  ```bash
-  npm run dev
-  ```
-  
+       
+  4. **Start the development server**
+     ```bash
+    npm run dev
+     ```
   The application will be available at `http://localhost:5173/`
   
-  The server will automatically reload when you make changes to the source code.
-  
-  ### Production Build
-  
-  To create an optimized production build:
-  
-  ```bash
-  npm run build
-  ```
-  
-  The built files will be in the `dist` directory.
-  
-  ## Available Scripts
-  
-  - `npm run dev` - Start development server
-  - `npm run build` - Build for production
-  
+  ## ⚖️ License
+  This project is licensed under the MIT License. See the LICENSE file for details.
+
   ## Project Structure
   
   ```
@@ -94,53 +76,12 @@
   └── vite.config.ts          # Vite configuration
   ```
   
-  ## Technologies Used
+ ## 🛠️ Tech Stack
+ 
+- **Framework**: [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Libraries**: [Radix UI](https://www.radix-ui.com/), [Lucide React](https://lucide.dev/), and [shadcn/ui](https://ui.shadcn.com/)
   
-  - **React 18.3.1** - UI library
-  - **Vite 6.4.1** - Build tool and dev server
-  - **TypeScript** - Type safety
-  - **Tailwind CSS 4.1.12** - Utility-first CSS framework
-  - **Radix UI** - Accessible component primitives
-  - **shadcn/ui** - High-quality component library
-  - **Framer Motion** - Animation library
-  - **Lucide React** - Icon library
-  
-  ## Troubleshooting
-  
-  ### Dependencies Issues
-  
-  If you encounter issues with dependencies:
-  
-  1. Delete `node_modules` folder and `package-lock.json`:
-     ```bash
-     rm -rf node_modules package-lock.json
-     ```
-  
-  2. Reinstall dependencies:
-     ```bash
-     npm install
-     ```
-  
-  ### Port Already in Use
-  
-  If port 5173 is already in use, Vite will automatically try the next available port (5174, 5175, etc.). The server will display the actual URL in the terminal.
-  
-  ### Build Errors
-  
-  If you encounter build errors, ensure:
-  - Node.js version is 18 or higher
-  - All dependencies are properly installed
-  - No syntax errors in your code
-  
-  ## Contributing
-  
-  Contributions are welcome! Please feel free to submit issues or pull requests.
-  
-  ## License
-  
-  This project is private and licensed under the terms specified in your repository.
-  
-  ## Acknowledgments
-  
-  - Original design concept from [Figma](https://www.figma.com/design/OSsXb4TQFLpEXhO0UP6NFS/Redesign-Pomodoro-Timer-UI)
-  - Built with open-source technologies and community tools  
+
+
