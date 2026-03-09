@@ -1,5 +1,5 @@
 
- # 🍅 Pomodomato
+ # 🍅 POMODOMATO
 
   A garden-themed Pomodoro timer that turns your focus time into a visual experience. Plant seeds of productivity and watch your tomato garden grow with every completed session.
   
@@ -50,7 +50,7 @@
        
   4. **Start the development server**
      ```bash
-    npm run dev
+     npm run dev
      ```
   The application will be available at `http://localhost:5173/`
   
