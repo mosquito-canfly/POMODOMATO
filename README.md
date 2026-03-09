@@ -3,8 +3,6 @@
   
   A modern, beautifully redesigned Pomodoro Timer UI built with React, Vite, and premium UI components. This project provides an enhanced productivity experience with a sleek, contemporary interface.
   
-  The original design concept is available at [Figma](https://www.figma.com/design/OSsXb4TQFLpEXhO0UP6NFS/Redesign-Pomodoro-Timer-UI).
-  
   ## Features
   
   - Modern, responsive Pomodoro Timer interface
