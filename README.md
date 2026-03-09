@@ -55,7 +55,7 @@
   The application will be available at `http://localhost:5173/`
   
   ## ⚖️ License
-  This project is licensed under the MIT License. See the LICENSE file for details.
+  This project is licensed under the [MIT License](./LICENSE).
 
   ## Project Structure
   
