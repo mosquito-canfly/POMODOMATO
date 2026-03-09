@@ -12,7 +12,6 @@
   ## 🚀 Getting Started
   
   ### Prerequisites
-  
   Before running this project, ensure you have the following installed:
   
   - **Node.js** (v18 or higher recommended)
@@ -32,7 +31,6 @@
      ```bash
      git clone [https://github.com/your-username/pomodomato.git](https://github.com/your-username/pomodomato.git)
      ```
-  
   2. **Navigate to the project folder**
      ```bash
      cd Pomodomato
@@ -76,7 +74,7 @@
   └── vite.config.ts          # Vite configuration
   ```
   
- ## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack
  
 - **Framework**: [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
