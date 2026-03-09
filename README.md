@@ -29,7 +29,7 @@
   
   1. **Clone the repository**
      ```bash
-     git clone [https://github.com/your-username/pomodomato.git](https://github.com/your-username/pomodomato.git)
+     git clone https://github.com/mosquito-canfly/pomodomato.git
      ```
   2. **Navigate to the project folder**
      ```bash
