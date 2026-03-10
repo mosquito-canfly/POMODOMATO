@@ -34,11 +34,6 @@ dist-ssr
 *.chunks.js
 *.mjs.map
 
-# Figma / Design Guidelines
-# Since these are for your AI workflow and not the app logic
-guidelines/
-Guidelines.md
-
 # Environment variables
 .env
 .env.local
